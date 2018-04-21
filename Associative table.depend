@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1514730733 source:c:\users\lenovo\desktop\politechnika\programowanie obiektowe\associative table\associative table\main.cpp
+	"associativeTab.h"
+	"insensitive.h"
+	"sensitive.h"
+
+1514730470 c:\users\lenovo\desktop\politechnika\programowanie obiektowe\associative table\associative table\associativtab.h
+	<iostream>
+	<string.h>
+	"exceptions.h"
+
+1515934666 source:c:\users\lenovo\desktop\politechnika\programowanie obiektowe\associative table\associative table\associativetab.cpp
+	"associativeTab.h"
+
+1513858605 c:\users\lenovo\desktop\politechnika\programowanie obiektowe\associative table\associative table\exceptions.h
+
+1514728932 c:\users\lenovo\desktop\politechnika\programowanie obiektowe\associative table\associative table\notsensitive.h
+	"associativTab.h"
+
+1514728833 source:c:\users\lenovo\desktop\politechnika\programowanie obiektowe\associative table\associative table\notsensitive.c
+
+1514729186 source:c:\users\lenovo\desktop\politechnika\programowanie obiektowe\associative table\associative table\notsensitive.cpp
+	"notSensitive.h"
+
+1514729703 source:c:\users\lenovo\desktop\politechnika\programowanie obiektowe\associative table\associative table\sensitive.cpp
+	"sensitive.h"
+
+1514730740 c:\users\lenovo\desktop\politechnika\programowanie obiektowe\associative table\associative table\sensitive.h
+	"associativeTab.h"
+
+1514730510 source:c:\users\lenovo\desktop\politechnika\programowanie obiektowe\associative table\associative table\insensitive.cpp
+	"insensitive.h"
+
+1514730737 c:\users\lenovo\desktop\politechnika\programowanie obiektowe\associative table\associative table\insensitive.h
+	"associativeTab.h"
+
+1514731364 c:\users\lenovo\desktop\politechnika\programowanie obiektowe\associative table\associative table\associativetab.h
+	<iostream>
+	<string.h>
+
